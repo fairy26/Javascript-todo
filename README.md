@@ -1,2 +1,3 @@
-# React-todo
+# Javascript-todo
+
 Created with CodeSandbox
